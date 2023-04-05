@@ -1,4 +1,4 @@
-# Hub for [aoestats.io](https://aoestats.io) development
+# Hub for [aoestats](https://aoestats.io) development
 
 This is the public-facing hub for aoestats.io development. Please use this space to:
 * raise issues or bugs via the [issue tracker](https://github.com/jerkeeler/aoestats-redux-issues/issues)
