@@ -6,3 +6,10 @@ This is the public-facing hub for aoestats.io development. Please use this space
 * follow planned development on the [projects page](https://github.com/jerkeeler/aoestats-redux-issues/projects?query=is%3Aopen)
 
 Any comments, feedback, and suggestions are welcome 🙂
+
+
+### Why is it called redux?
+
+Well, I relaunhced the website and am hoping to bring it back to life. Feels like a redo or restart to me 🤷‍♂️ 
+
+Has nothing to with react-redux, I swear!
